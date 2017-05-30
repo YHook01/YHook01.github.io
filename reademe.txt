@@ -1,0 +1,6 @@
+cd到Github文件夹下
+Git clone https://github.com/YHook01/YHook01.github.io.git
+cd YHook01.github.io
+git add .
+git commit -m "注释"
+git push
